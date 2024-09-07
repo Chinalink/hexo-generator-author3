@@ -1,0 +1,16 @@
+{
+  "name": "hexo-generator-author3",
+  "version": "1.0.0",
+  "description": "Author generator for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "generator",
+    "author"
+  ],
+  "author": "Xiao Dai Hu",
+  "license": "MIT"
+}
